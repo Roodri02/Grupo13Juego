@@ -6,7 +6,8 @@ namespace parchisPrue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.Write("Cambio de colores");
         }
     }
 }
